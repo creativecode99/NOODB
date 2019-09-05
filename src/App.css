@@ -8,6 +8,9 @@
   pointer-events: none;
 } */
 
+.fonts{
+  font-size: 17px;
+}
 .Header {
   background-color: black;
   min-height: 20vh;

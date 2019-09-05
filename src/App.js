@@ -5,7 +5,7 @@ import Form from './components/Form/Form'
 import comp1 from './components/comp1/comp1'
 function App() {
   return (
-    <div className="Template">
+    <main className="Template">
       <header className="Header">
         
         <p>
@@ -13,9 +13,14 @@ function App() {
           that many gurus, and internet marketers are using to <br />
           sell to the masses and retire early…
         </p>
+      
         <comp1 />
         <label>
-         
+        
+     <h1 className="fonts">Welcome To The Online Copywriting Tutorial</h1>
+ 
+    
+
         </label>
       </header>
 
@@ -73,7 +78,7 @@ function App() {
 
         </form> */}
       </div>
-    </div>
+    </main>
 
     
      
